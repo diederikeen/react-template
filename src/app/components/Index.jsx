@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom'
 class Index extends React.Component{
 
   render(){
-    console.log('Hello index');
     return(
       <div>
         <h1>Hello Index!</h1>

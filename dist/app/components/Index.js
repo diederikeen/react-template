@@ -32,7 +32,6 @@ var Index = function (_React$Component) {
   _createClass(Index, [{
     key: 'render',
     value: function render() {
-      console.log('Hello index');
       return _react2.default.createElement(
         'div',
         null,

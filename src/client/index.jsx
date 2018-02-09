@@ -12,8 +12,6 @@ import renderRoutes from '../app/helpers/renderRoutes';
 
 const store = createStore(reducer, window.INITIAL_STATE, applyMiddleware(thunk));
 
-console.log(css)
-
 render((
   <Provider store={store}>
     <BrowserRouter>
