@@ -1,3 +1,6 @@
-# Finance pal
+# React
 
-A front-end project based on React and Redux
+A React boilertemplate including:
+ - Serverside rendering
+ - Redux
+ - Postcss
